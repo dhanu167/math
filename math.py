@@ -17,3 +17,9 @@ def div(a,b):
 	this function div 2 nos
 	"""
 	return a / b
+
+def sub(a,b):
+    """
+	this function sub 2 nos
+	"""
+	return a - b
