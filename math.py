@@ -1,10 +1,9 @@
 def sum(a,b):
     """
-    Its always recommended to write documentation of your function here
-    delete these two comments and write your doc an push it
+    This function adds two numbers
     """
-    c = a+b
-    print(c)
+    return a+b
+   
 
 
 def mul(a, b):
