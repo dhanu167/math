@@ -16,11 +16,18 @@ def div(a, b):
     """
     this function div 2 nos
     """
-	return a / b
+    return a / b
 
-def sub(a,b):
+
+def sub(a, b):
     """
-	this function sub 2 nos
-	"""
-	return a - b
+    Returns subtraction
+    """
+    return a - b
 
+
+def mod(a, b):
+    """
+    docstring for foo
+    """
+    return a % b
