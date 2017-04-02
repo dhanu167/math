@@ -1,4 +1,13 @@
 def sum(a,b):
-    c = a+b
-    print(c)
+    """
+    This function adds two numbers and returns the value
+    """
+    return a+b
+   
 
+
+def mul(a, b):
+    """
+    This function multiplies 2 functions and returns the value
+    """
+    return a * b
