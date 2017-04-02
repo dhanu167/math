@@ -1,6 +1,6 @@
 def sum(a,b):
     """
-    This function adds two numbers
+    This function adds two numbers and returns the value
     """
     return a+b
    
